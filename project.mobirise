@@ -68,6 +68,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
+    "publishChangesOnly": true,
     "uniqCompNum": 49,
     "versionPublish": "5.8.4"
   },
@@ -1202,7 +1203,8 @@
               "color": "#53565a"
             },
             ".mbr-section-title, .icon-wrapper": {
-              "color": "#53565a"
+              "color": "#53565a",
+              "text-align": "left"
             }
           },
           "_cid": "tBs2yLV0GE",
